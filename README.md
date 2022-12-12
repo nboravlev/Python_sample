@@ -1,10 +1,12 @@
 # Python_sample
 Примеры решения учебных, тестовых, рабочих задач на Python
 
-1. Functions 
+1. Pyda_lab 
    - functions
-   - input
-   - loops
+   - regex
+   - random
+   - list comprehention
+   - zip
    
 2. Scraping
    - pandas
